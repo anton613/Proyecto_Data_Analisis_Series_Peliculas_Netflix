@@ -355,14 +355,14 @@ uv pip install --force-reinstall jupyter
 
 ## 📧 Contacto
 
-- **Autor**: [Tu Nombre]
-- **Email**: [tu.email@ejemplo.com]
-- **LinkedIn**: [Tu perfil de LinkedIn]
-- **GitHub**: [Tu usuario de GitHub]
+- **Autor**: [Manuel Antonio Casani Osores]
+- **Email**: [manuel.26.sco@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/casanimanuel/]
+- **GitHub**: [anton613]
 
 ## 🙏 Agradecimientos
 
-- Dataset proporcionado por [Kaggle](https://www.kaggle.com/)
+- Dataset proporcionado por [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - Comunidad de Python y pandas
 - Desarrolladores de uv (Astral)
 
@@ -374,4 +374,4 @@ uv pip install --force-reinstall jupyter
 
 ---
 
-*Última actualización: Noviembre 2024*
+*Última actualización: Noviembre 2025*
