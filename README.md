@@ -368,7 +368,7 @@ uv pip install --force-reinstall jupyter
 
 ## Sitio Web
 
-- Pagina web hecho con Streamlit [Web site](https://github.com/anton613/DM_hotel_fullstack/tree/master)
+- Pagina web hecho con Streamlit [Web site](https://da-netfilx-co.streamlit.app/)
 ---
 
 **⭐ Si este proyecto te resulta útil, considera darle una estrella en GitHub**
