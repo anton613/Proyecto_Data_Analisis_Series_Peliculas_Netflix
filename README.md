@@ -366,6 +366,9 @@ uv pip install --force-reinstall jupyter
 - Comunidad de Python y pandas
 - Desarrolladores de uv (Astral)
 
+## Sitio Web
+
+- Pagina web hecho con Streamlit [Web site](https://github.com/anton613/DM_hotel_fullstack/tree/master)
 ---
 
 **⭐ Si este proyecto te resulta útil, considera darle una estrella en GitHub**
